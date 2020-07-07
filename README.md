@@ -172,5 +172,5 @@ In this step, we unpack the compressed file using <code>!tar zxf</code> and read
 !cat stderr.log</pre></code>
 
 
-# Adaptation as a Repository: Andrés R. Bucheli.
+## Adaptation as a Repository: Andrés R. Bucheli.
 
